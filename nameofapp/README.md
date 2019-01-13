@@ -1,4 +1,11 @@
 # README
+Hello, I am Raquel Albarran and this is my first application.
+In the future I will write here some steps to make my app run without problems.
+I hope you enjoy it!
+
+
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
